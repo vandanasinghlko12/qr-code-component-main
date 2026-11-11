@@ -9,6 +9,22 @@ Vandana Singh
 * I tried to mimic design 
 * while creating this design i used flex-box to put the container in the center of page after that i styled the images and text of the design.
 
+# How to Run the Project:
+* Clone this repository to your local machine.
+
+
+* git clone <https://github.com/vandanasinghlko12/qr-code-component-main.git>
+
+* Open the project folder in Visual Studio Code.
+
+* Open the index.html file.
+
+* To run the project, you can open index.html directly in your browser, or Install the Live Server extension in VS Code.
+
+* Right-click index.html and select Open with Live Server.
+
+* The project will open in your default browser
+
 
 # Reflection Question:
 ### How did using Figma designs as references affect your coding process?
